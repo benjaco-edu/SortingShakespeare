@@ -19,3 +19,14 @@ You’ll find the complete works in the GitHub course repository under Weeklies 
 * Measure time consumption for each algorithm and compare them, and discuess the results in a one-page summary.
 
 The solution accompanied with a description in a README.md file should be uploaded (pushed) to a git repository, and a linked should be send to JTF and AKA [Peergrade], no later than Tuesday February 15th, 08:30.
+
+Need to convert NanoTime to Hours
+
+https://stackoverflow.com/questions/924208/how-to-convert-nanoseconds-to-seconds-using-the-timeunit-enum
+
+https://www.calculateme.com/time/nanoseconds/to-minutes/
+
+Selection Sorted Array: 5077597.667995
+a a a a a a a a a a a a a a a a a a a a 
+1.41044379666528 x 10-6 Hours 
+About 1:40 hours!
