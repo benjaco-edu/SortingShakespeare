@@ -37,3 +37,8 @@ Intsertion Sorted Array: 4767636.946687
 a a a a a a a a a a a a a a a a a a a a 
 1.32434333 x 10-6 Hours
 About 1:20 hours
+
+
+Merge (Bottom Up) Sorted Array: 1368116.154955
+3.80032265265278 x 10-7
+About 20 minuts 
