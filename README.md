@@ -28,5 +28,7 @@ https://www.calculateme.com/time/nanoseconds/to-minutes/
 
 Selection Sorted Array: 5077597.667995
 a a a a a a a a a a a a a a a a a a a a 
+
 1.41044379666528 x 10-6 Hours 
+
 About 1:40 hours!
