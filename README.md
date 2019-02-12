@@ -1,5 +1,5 @@
 # SortingShakespeare
-## Assignemnt
+## Assignment
 Algorithms &amp; Data Structures - Assignment 1
 
 We want Shakespeares complete works, sorted by word. Meaning that “to be or not to be, that is the question” would be sorted as: “be be is not or question that the to to”.
