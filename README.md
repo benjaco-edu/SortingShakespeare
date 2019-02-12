@@ -98,7 +98,7 @@ a a a a a a a a a a a a a a a a a a a a
 
 1.41044379666528 x 10-6 Hours 
 
-About 1:40 hours!
+About 1:27 hours!
 
 ----------------
 
@@ -106,7 +106,7 @@ Intsertion Sorted Array: 4767636.946687
 
 1.32434333 x 10-6 Hours
 
-About 1:20 hours
+About 1:21 hours
 
 ----------------
 
